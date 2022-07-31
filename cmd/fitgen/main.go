@@ -12,8 +12,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/tormoder/fit/cmd/fitgen/internal/fitstringer"
-	"github.com/tormoder/fit/cmd/fitgen/internal/profile"
+	"github.com/subtlepseudonym/fit-go/cmd/fitgen/internal/fitstringer"
+	"github.com/subtlepseudonym/fit-go/cmd/fitgen/internal/profile"
 )
 
 const (

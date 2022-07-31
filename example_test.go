@@ -6,7 +6,7 @@ import (
 	"io/ioutil"
 	"path/filepath"
 
-	"github.com/tormoder/fit"
+	"github.com/subtlepseudonym/fit-go"
 )
 
 func Example() {

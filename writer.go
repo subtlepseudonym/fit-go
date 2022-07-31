@@ -9,8 +9,8 @@ import (
 	"time"
 	"unicode/utf8"
 
-	"github.com/tormoder/fit/dyncrc16"
-	"github.com/tormoder/fit/internal/types"
+	"github.com/subtlepseudonym/fit-go/dyncrc16"
+	"github.com/subtlepseudonym/fit-go/internal/types"
 )
 
 type encoder struct {

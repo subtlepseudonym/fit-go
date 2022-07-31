@@ -11,7 +11,6 @@ require (
 	github.com/kortschak/utter v0.0.0-20180609113506-364ec7d7a8f4
 	github.com/mdempsky/unconvert v0.0.0-20200228143138-95ecdbfc0b5f
 	github.com/tealeg/xlsx v1.0.3
-	github.com/tormoder/fit v0.14.0
 	golang.org/x/tools v0.1.11
 	honnef.co/go/tools v0.3.2
 	mvdan.cc/gofumpt v0.3.1
@@ -27,5 +26,3 @@ require (
 	golang.org/x/text v0.3.7 // indirect
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 )
-
-replace github.com/tormorder/fit => github.com/subtlepseudonym/fit-go v0.0.0-20220731205407-7f166e2335f3
